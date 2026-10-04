@@ -3,92 +3,329 @@
   {
     "id": "ztmY_cCtUl0",
     "title": "SÖZCÜ TV Canlı Yayını ᴴᴰ",
-    "category": "egitim",
+    "category": "canli",
     "channel": "SÖZCÜ Televizyonu",
-    "thumb": "https://i.ytimg.com/vi/ztmY_cCtUl0/hqdefault_live.jpg"
-  },
-  {
-    "id": "jHMsvYrf-UA",
-    "title": "HALK TV CANLI YAYINI | FULL HD",
-    "category": "egitim",
-    "channel": "Halktv",
-    "thumb": "https://i.ytimg.com/vi/jHMsvYrf-UA/hqdefault_live.jpg"
-  },
-  {
-    "id": "EqoCJ8BPxtE",
-    "title": "SON DAKİKA HABERLERİ - Haber Global TV ᴴᴰ Canlı TV İzle",
-    "category": "egitim",
-    "channel": "Haber Global",
-    "thumb": "https://i.ytimg.com/vi/EqoCJ8BPxtE/hqdefault.jpg"
-  },
-  {
-    "id": "qGYlF1MiMxw",
-    "title": "Seksenler - Tüm Bölümler Canlı Yayın",
-    "category": "egitim",
-    "channel": "Seksenler",
-    "thumb": "https://i.ytimg.com/vi/qGYlF1MiMxw/hqdefault_live.jpg"
-  },
-  {
-    "id": "j7B_zsL11Pw",
-    "title": "Bloomberg HT Canlı Yayın",
-    "category": "egitim",
-    "channel": "BloombergHT",
-    "thumb": "https://i.ytimg.com/vi/j7B_zsL11Pw/hqdefault_live.jpg"
-  },
-  {
-    "id": "avDRwKKjeSI",
-    "title": "Alemin Kıralı Canlı Yayın",
-    "category": "egitim",
-    "channel": "Alemin Kıralı",
-    "thumb": "https://i.ytimg.com/vi/avDRwKKjeSI/hqdefault_live.jpg"
+    "thumb": "https://i.ytimg.com/vi/ztmY_cCtUl0/hqdefault_live.jpg",
+    "slot": 1
   },
   {
     "id": "6N8_r2uwLEc",
     "title": "CNN TÜRK - 🔴 Canlı Yayın ᴴᴰ - Canlı TV izle | HABER",
-    "category": "egitim",
+    "category": "canli",
     "channel": "CNN TÜRK",
-    "thumb": "https://i.ytimg.com/vi/6N8_r2uwLEc/hqdefault_live.jpg"
+    "thumb": "https://i.ytimg.com/vi/6N8_r2uwLEc/hqdefault_live.jpg",
+    "slot": 2
   },
   {
-    "id": "RNVNlJSUFoE",
-    "title": "Habertürk TV Canlı İzle | Son Dakika Haberleri | Canlı Yayın",
-    "category": "egitim",
-    "channel": "Habertürk TV",
-    "thumb": "https://i.ytimg.com/vi/RNVNlJSUFoE/hqdefault_live.jpg"
+    "id": "jHMsvYrf-UA",
+    "title": "HALK TV CANLI YAYINI | FULL HD",
+    "category": "canli",
+    "channel": "Halktv",
+    "thumb": "https://i.ytimg.com/vi/jHMsvYrf-UA/hqdefault_live.jpg",
+    "slot": 4
   },
   {
     "id": "pqq5c6k70kk",
     "title": "NTV Canlı Yayın - Full HD İzle",
-    "category": "egitim",
+    "category": "canli",
     "channel": "NTV",
-    "thumb": "https://i.ytimg.com/vi/pqq5c6k70kk/hqdefault_live.jpg"
+    "thumb": "https://i.ytimg.com/vi/pqq5c6k70kk/hqdefault_live.jpg",
+    "slot": 5
   },
   {
-    "id": "4WSvLRk83-c",
-    "title": "tv100 - #Canlı Yayın ᴴᴰ",
-    "category": "egitim",
-    "channel": "TV100",
-    "thumb": "https://i.ytimg.com/vi/4WSvLRk83-c/hqdefault.jpg"
+    "id": "o2i1o4cFRzA",
+    "title": "A Haber Canlı TV | Son Dakika! 🔴 #Haberler - Gündemde Neler Oluyor? | #Canlı Haber İzle",
+    "category": "canli",
+    "channel": "A Haber",
+    "thumb": "https://i.ytimg.com/vi/o2i1o4cFRzA/hqdefault_live.jpg",
+    "slot": 8
+  },
+  {
+    "id": "RNVNlJSUFoE",
+    "title": "Habertürk TV Canlı İzle | Son Dakika Haberleri | Canlı Yayın",
+    "category": "canli",
+    "channel": "Habertürk TV",
+    "thumb": "https://i.ytimg.com/vi/RNVNlJSUFoE/hqdefault_live.jpg",
+    "slot": 9
   },
   {
     "id": "GefoJ-LXYfc",
     "title": "TRT Haber Canlı Yayın",
-    "category": "egitim",
+    "category": "canli",
     "channel": "TRT Haber",
-    "thumb": "https://i.ytimg.com/vi/GefoJ-LXYfc/hqdefault_live.jpg"
+    "thumb": "https://i.ytimg.com/vi/GefoJ-LXYfc/hqdefault_live.jpg",
+    "slot": 10
   },
   {
-    "id": "WX29nlgdqho",
-    "title": "TGRT Haber Canlı Yayın ᴴᴰ - Son Dakika Canlı Haber İzle",
-    "category": "egitim",
-    "channel": "TGRT Haber TV",
-    "thumb": "https://i.ytimg.com/vi/WX29nlgdqho/hqdefault_live.jpg"
+    "id": "x4KvqBuvA-c",
+    "title": "Kanal 7 Canlı Yayın #canlı #live",
+    "category": "canli",
+    "channel": "Kanal 7 Canlı Yayın",
+    "thumb": "https://i.ytimg.com/vi/x4KvqBuvA-c/hqdefault_live.jpg",
+    "slot": 12
   },
   {
-    "id": "Gcxkjxhbhk8",
-    "title": "Ulusal Kanal TV ᴴᴰ Canlı Yayın İzle #CANLI",
-    "category": "egitim",
-    "channel": "Ulusal Kanal",
-    "thumb": "https://i.ytimg.com/vi/Gcxkjxhbhk8/hqdefault_live.jpg"
+    "id": "U3PGGfxCioI",
+    "title": "🔴 Akit TV Canlı Yayını #canlıyayın",
+    "category": "canli",
+    "channel": "Akit TV",
+    "thumb": "https://i.ytimg.com/vi/U3PGGfxCioI/hqdefault_live.jpg",
+    "slot": 19
+  },
+  {
+    "id": "j7B_zsL11Pw",
+    "title": "Bloomberg HT Canlı Yayın",
+    "category": "canli",
+    "channel": "BloombergHT",
+    "thumb": "https://i.ytimg.com/vi/j7B_zsL11Pw/hqdefault_live.jpg",
+    "slot": 23
+  },
+  {
+    "id": "JpP13Wp1ke0",
+    "title": "Aşk-ı Memnu Canlı İzle",
+    "category": "dizi",
+    "channel": "Aşk-ı Memnu",
+    "thumb": "https://i.ytimg.com/vi/JpP13Wp1ke0/hqdefault_live.jpg",
+    "slot": 200
+  },
+  {
+    "id": "crwxJBQKWj4",
+    "title": "Yaprak Dökümü Canlı Yayın",
+    "category": "dizi",
+    "channel": "Yaprak Dökümü",
+    "thumb": "https://i.ytimg.com/vi/crwxJBQKWj4/hqdefault.jpg",
+    "slot": 201
+  },
+  {
+    "id": "yu2-hTNkr6c",
+    "title": "Medcezir Tüm Bölümler 7/24 #canlıyayın #medcezir",
+    "category": "dizi",
+    "channel": "Medcezir Dizi",
+    "thumb": "https://i.ytimg.com/vi/yu2-hTNkr6c/hqdefault.jpg",
+    "slot": 202
+  },
+  {
+    "id": "tZxD_s29JZc",
+    "title": "Muhteşem Yüzyıl - Tüm Bölümler #livestream",
+    "category": "dizi",
+    "channel": "Muhteşem Yüzyıl",
+    "thumb": "https://i.ytimg.com/vi/tZxD_s29JZc/hqdefault.jpg",
+    "slot": 203
+  },
+  {
+    "id": "ISPr6OHWVsY",
+    "title": "Sihirli Annem Canlı Yayın",
+    "category": "dizi",
+    "channel": "Sihirli Annem",
+    "thumb": "https://i.ytimg.com/vi/ISPr6OHWVsY/hqdefault_live.jpg",
+    "slot": 204
+  },
+  {
+    "id": "AOCx3MTX50c",
+    "title": "Söz Tüm Bölümler 7/24 Canlı Yayın #livestream",
+    "category": "dizi",
+    "channel": "Söz Dizi",
+    "thumb": "https://i.ytimg.com/vi/AOCx3MTX50c/hqdefault.jpg",
+    "slot": 205
+  },
+  {
+    "id": "g2cBiMWu0YI",
+    "title": "Yasak Elma Canlı Yayın Tüm Bölümler 7/24 #canlıyayın #yasakelma",
+    "category": "dizi",
+    "channel": "Yasak Elma",
+    "thumb": "https://i.ytimg.com/vi/g2cBiMWu0YI/hqdefault.jpg",
+    "slot": 206
+  },
+  {
+    "id": "qGYlF1MiMxw",
+    "title": "Seksenler - Tüm Bölümler Canlı Yayın",
+    "category": "dizi",
+    "channel": "Seksenler",
+    "thumb": "https://i.ytimg.com/vi/qGYlF1MiMxw/hqdefault_live.jpg",
+    "slot": 207
+  },
+  {
+    "id": "jvC6-s5exnI",
+    "title": "Bizimkiler - Tüm Bölümler Canlı Yayın @NostaljiTRT",
+    "category": "dizi",
+    "channel": "TRT Nostalji",
+    "thumb": "https://i.ytimg.com/vi/jvC6-s5exnI/hqdefault.jpg",
+    "slot": 208
+  },
+  {
+    "id": "eXeXpNZs_nY",
+    "title": "Yeraltı 1. Sezon Tüm Bölümler 7/24 #canlıyayın",
+    "category": "dizi",
+    "channel": "Yeraltı",
+    "thumb": "https://i.ytimg.com/vi/eXeXpNZs_nY/hqdefault.jpg",
+    "slot": 209
+  },
+  {
+    "id": "NGsjOrzwjZk",
+    "title": "Avrupa Yakası Bölümler 7/24 #canlıyayın",
+    "category": "dizi",
+    "channel": "Avrupa Yakası",
+    "thumb": "https://i.ytimg.com/vi/NGsjOrzwjZk/hqdefault_live.jpg",
+    "slot": 210
+  },
+  {
+    "id": "b4U9nt3s128",
+    "title": "Emret Komutanım Dizisi Canlı İzle | Askeri Dizi",
+    "category": "dizi",
+    "channel": "Emret Komutanım",
+    "thumb": "https://i.ytimg.com/vi/b4U9nt3s128/hqdefault_live.jpg",
+    "slot": 211
+  },
+  {
+    "id": "pUjdw26nVhQ",
+    "title": "Yargı Tüm Bölümler 7/24 #canlıyayın",
+    "category": "dizi",
+    "channel": "Yargı",
+    "thumb": "https://i.ytimg.com/vi/pUjdw26nVhQ/hqdefault_live.jpg",
+    "slot": 212
+  },
+  {
+    "id": "9aPyolmOTPA",
+    "title": "Güzel Köylü Tüm Bölümler 7/24 #canlıyayın",
+    "category": "dizi",
+    "channel": "Güzel Köylü",
+    "thumb": "https://i.ytimg.com/vi/9aPyolmOTPA/hqdefault.jpg",
+    "slot": 213
+  },
+  {
+    "id": "67GXDXW35l8",
+    "title": "Aşk Yeniden Tüm Bölümler 7/24 #canlıyayın",
+    "category": "dizi",
+    "channel": "Aşk Yeniden",
+    "thumb": "https://i.ytimg.com/vi/67GXDXW35l8/hqdefault_live.jpg",
+    "slot": 214
+  },
+  {
+    "id": "nZntWwlV3BA",
+    "title": "Çukur Canlı Yayın - 7/24 İzle 🔴 #Çukur #CanlıYayın",
+    "category": "dizi",
+    "channel": "Çukur",
+    "thumb": "https://i.ytimg.com/vi/nZntWwlV3BA/hqdefault.jpg",
+    "slot": 215
+  },
+  {
+    "id": "rS5dHYQsSxs",
+    "title": "Yedi Numara - Tüm Bölümler Canlı Yayın",
+    "category": "dizi",
+    "channel": "Yedi Numara",
+    "thumb": "https://i.ytimg.com/vi/rS5dHYQsSxs/hqdefault.jpg",
+    "slot": 216
+  },
+  {
+    "id": "sF1AgroEr60",
+    "title": "Adanalı | Canlı İzle",
+    "category": "dizi",
+    "channel": "Adanalı",
+    "thumb": "https://i.ytimg.com/vi/sF1AgroEr60/hqdefault_live.jpg",
+    "slot": 217
+  },
+  {
+    "id": "zVMWX2TAHJE",
+    "title": "Kiraz Mevsimi Tüm Bölümler 7/24 #canlıyayın",
+    "category": "dizi",
+    "channel": "Kiraz Mevsimi",
+    "thumb": "https://i.ytimg.com/vi/zVMWX2TAHJE/hqdefault.jpg",
+    "slot": 218
+  },
+  {
+    "id": "EBdeegSEOv4",
+    "title": "Fatmagül'ün Suçu Ne? Canlı Yayını",
+    "category": "dizi",
+    "channel": "Fatmagül'ün Suçu Ne?",
+    "thumb": "https://i.ytimg.com/vi/EBdeegSEOv4/hqdefault.jpg",
+    "slot": 219
+  },
+  {
+    "id": "01XY0139KDA",
+    "title": "Kısmetse Olur Canlı Yayını",
+    "category": "dizi",
+    "channel": "Kısmetse Olur",
+    "thumb": "https://i.ytimg.com/vi/01XY0139KDA/hqdefault.jpg",
+    "slot": 220
+  },
+  {
+    "id": "S-jm68GwIak",
+    "title": "Bay Yanlış Tüm Bölümler 7/24 #canlıyayın",
+    "category": "dizi",
+    "channel": "Bay Yanlış",
+    "thumb": "https://i.ytimg.com/vi/S-jm68GwIak/hqdefault.jpg",
+    "slot": 221
+  },
+  {
+    "id": "-0GgH2pq1Hc",
+    "title": "Yüksek Sosyete Tüm Bölümler 7/24 #canlıyayın",
+    "category": "dizi",
+    "channel": "Yüksek Sosyete",
+    "thumb": "https://i.ytimg.com/vi/-0GgH2pq1Hc/hqdefault_live.jpg",
+    "slot": 222
+  },
+  {
+    "id": "hM2l3AdM8Sw",
+    "title": "5 DİZİ YAKINDA FİNAL YAPACAK - Kesin Bitecek Yeni Diziler 2026",
+    "category": "dizi",
+    "channel": "Dizi Dizzy",
+    "thumb": "https://i.ytimg.com/vi/hM2l3AdM8Sw/hqdefault.jpg",
+    "slot": 223
+  },
+  {
+    "id": "yFQ_Ve2xt8U",
+    "title": "Cennet Mahallesi Full Bölümler",
+    "category": "dizi",
+    "channel": "Cennet Mahallesi",
+    "thumb": "https://i.ytimg.com/vi/yFQ_Ve2xt8U/hqdefault_live.jpg",
+    "slot": 224
+  },
+  {
+    "id": "1lyLi6l74fs",
+    "title": "Selena Canlı Yayın",
+    "category": "dizi",
+    "channel": "Selena",
+    "thumb": "https://i.ytimg.com/vi/1lyLi6l74fs/hqdefault_live.jpg",
+    "slot": 225
+  },
+  {
+    "id": "eYeu4VUkhYc",
+    "title": "Kardeş Payı 7/24 Canlı Yayın",
+    "category": "dizi",
+    "channel": "Kardeş Payı",
+    "thumb": "https://i.ytimg.com/vi/eYeu4VUkhYc/hqdefault_live.jpg",
+    "slot": 226
+  },
+  {
+    "id": "_T2pfIFVyVo",
+    "title": "Petrol Kralları (1979) - Zeki Alasya & Metin Akpınar",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/_T2pfIFVyVo/hqdefault.jpg",
+    "slot": 600
+  },
+  {
+    "id": "RehneMlFUx8",
+    "title": "Nereden Çıktı Bu Velet (1975) - Zeki Alasya & Metin Akpınar",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/RehneMlFUx8/hqdefault.jpg",
+    "slot": 601
+  },
+  {
+    "id": "23T18NEggpU",
+    "title": "Aslan Bacanak (1977) - Zeki Alasya & Metin Akpınar",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/23T18NEggpU/hqdefault.jpg",
+    "slot": 602
+  },
+  {
+    "id": "l7wyyLcUaLs",
+    "title": "Memleket Meselesi  I 2010 Full Film",
+    "category": "film",
+    "channel": "Tristana",
+    "thumb": "https://i.ytimg.com/vi/l7wyyLcUaLs/hqdefault.jpg",
+    "slot": 603
   }
 ]
