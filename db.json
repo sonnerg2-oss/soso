@@ -296,38 +296,6 @@
     "slot": 226
   },
   {
-    "id": "_T2pfIFVyVo",
-    "title": "Petrol Kralları (1979) - Zeki Alasya & Metin Akpınar",
-    "category": "film",
-    "channel": "Erman Film",
-    "thumb": "https://i.ytimg.com/vi/_T2pfIFVyVo/hqdefault.jpg",
-    "slot": 600
-  },
-  {
-    "id": "RehneMlFUx8",
-    "title": "Nereden Çıktı Bu Velet (1975) - Zeki Alasya & Metin Akpınar",
-    "category": "film",
-    "channel": "Erman Film",
-    "thumb": "https://i.ytimg.com/vi/RehneMlFUx8/hqdefault.jpg",
-    "slot": 601
-  },
-  {
-    "id": "23T18NEggpU",
-    "title": "Aslan Bacanak (1977) - Zeki Alasya & Metin Akpınar",
-    "category": "film",
-    "channel": "Erman Film",
-    "thumb": "https://i.ytimg.com/vi/23T18NEggpU/hqdefault.jpg",
-    "slot": 602
-  },
-  {
-    "id": "l7wyyLcUaLs",
-    "title": "Memleket Meselesi  I 2010 Full Film",
-    "category": "film",
-    "channel": "Tristana",
-    "thumb": "https://i.ytimg.com/vi/l7wyyLcUaLs/hqdefault.jpg",
-    "slot": 603
-  },
-  {
     "id": "cKasIclrR2A",
     "title": "Sevimli Haydut | Ayhan Işık - Türkan Şoray Siyah Beyaz Eski Türk Filmi",
     "category": "film",
@@ -1438,5 +1406,599 @@
     "channel": "Avşar Film",
     "thumb": "https://i.ytimg.com/vi/KXEiSsICzVI/hqdefault.jpg",
     "slot": 746
+  },
+  {
+    "id": "zFleNdmwYa4",
+    "title": "Melek mi Şeytan mı? Türk Filmi | 4K Restorasyonlu | FULL | TARIK AKAN | TÜRKAN ŞORAY",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/zFleNdmwYa4/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 747
+  },
+  {
+    "id": "427ED1zfhM8",
+    "title": "Beş Milyoncuk Borç Verir misin? Türk Filmi | Restorasyonlu | ZEKİ ALASYA | METİN AKPINAR",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/427ED1zfhM8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 748
+  },
+  {
+    "id": "fg974ZXp5P4",
+    "title": "Cafer'in Çilesi Türk Filmi | Ultra HD | ZEKİ ALASYA | METİN AKPINAR",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/fg974ZXp5P4/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 749
+  },
+  {
+    "id": "lLfsJ9ZUj-g",
+    "title": "Aslan Bacanak Türk Filmi | 4K ULTRA HD | ZEKİ ALASYA | METİN AKPINAR",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/lLfsJ9ZUj-g/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 750
+  },
+  {
+    "id": "hiD18Sqmw80",
+    "title": "Baba Bizi Eversene Türk Filmi | 4K Ultra HD | BARIŞ MANÇO | MERAL ZEREN",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/hiD18Sqmw80/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 751
+  },
+  {
+    "id": "0c-UEqi3Sho",
+    "title": "Petrol Kralları Türk Filmi | 4K ULTRA HD | ZEKİ ALASYA | METİN AKPINAR",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/0c-UEqi3Sho/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 752
+  },
+  {
+    "id": "lGazrsBWrZ0",
+    "title": "Tatlı Meleğim Türk Filmi | 4K ULTRA HD | FULL | TÜRKAN ŞORAY | EDİZ HUN",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/lGazrsBWrZ0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 753
+  },
+  {
+    "id": "B8L9oZXpXR0",
+    "title": "Davaro Türk Filmi | FULL | 4K ULTRA HD | KEMAL SUNAL | ŞENER ŞEN",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/B8L9oZXpXR0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 754
+  },
+  {
+    "id": "3SrfbY4EIDA",
+    "title": "Yırtık Niyazi Türk Filmi | 4K ULTRA HD | SADRİ ALIŞIK | FERİ CANSEL",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/3SrfbY4EIDA/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 755
+  },
+  {
+    "id": "u_BmXkkG8uo",
+    "title": "Ve Recep Ve Zehra Ve Ayşe Türk Filmi | FULL | 4K ULTRA HD | NECLA NAZIR",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/u_BmXkkG8uo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 756
+  },
+  {
+    "id": "OoczPFMEuDw",
+    "title": "Bir Dağ Masalı Türk Filmi | FULL | 4K ULTRA HD | TÜRKAN ŞORAY | MURAT SOYDAN",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/OoczPFMEuDw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 757
+  },
+  {
+    "id": "GQzC6c_Qwik",
+    "title": "Her Gönülde Bir Aslan Yatar Türk Filmi | FULL | 4K ULTRA HD  | ZEKİ ALASYA | METİN AKPINAR",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/GQzC6c_Qwik/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 758
+  },
+  {
+    "id": "1Du77zCaTFw",
+    "title": "Ceza Türk Filmi | FULL HD | KADİR İNANIR | HALE SOYGAZİ",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/1Du77zCaTFw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 759
+  },
+  {
+    "id": "HxJBrsUveI0",
+    "title": "Adile Teyze Türk Filmi | 4K ULTRA HD | ADİLE NAŞİT | ŞENER ŞEN",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/HxJBrsUveI0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 760
+  },
+  {
+    "id": "HxnT5sDajTo",
+    "title": "Şüphe Türk Filmi | FULL | EDİZ HUN | HALE SOYGAZİ | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/HxnT5sDajTo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 761
+  },
+  {
+    "id": "-BLEvtLUWeo",
+    "title": "Güler misin? Ağlar mısın? Türk Filmi | 4K Restorasyonlu | ZEKİ ALASYA | METİN AKPINAR",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/-BLEvtLUWeo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 762
+  },
+  {
+    "id": "ChRcqUBtG4w",
+    "title": "Hayat Bayram Olsa Türk Filmi | 4K ULTRA HD | KADİR İNANIR | HÜLYA KOÇYİĞİT",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/ChRcqUBtG4w/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 763
+  },
+  {
+    "id": "QSucDdwgj-s",
+    "title": "Sivri Akıllılar Türk Filmi | 4K Ultra HD | Zeki Alasya | Metin Akpınar",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/QSucDdwgj-s/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 764
+  },
+  {
+    "id": "TA5i8CqCcuQ",
+    "title": "Bir Teselli Ver Türk Filmi | FULL | 4K ULTRA HD | ORHAN GENCEBAY",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/TA5i8CqCcuQ/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 765
+  },
+  {
+    "id": "Um5HPxBeMH8",
+    "title": "Anneler ve Kızları Türk Filmi | FULL | 4K ULTRA HD | YILDIZ KENTER | İZZET GÜNAY",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/Um5HPxBeMH8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 766
+  },
+  {
+    "id": "jnemxBb9Tl8",
+    "title": "Nereden Çıktı Bu Velet Türk Filmi | FULL | 4K ULTRA HD | METİN AKPINAR | ZEKİ ALASYA",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/jnemxBb9Tl8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 767
+  },
+  {
+    "id": "L6eATe3somw",
+    "title": "Sevenler Kavuşurmuş Türk Filmi | FULL | KARTAL TİBET | NAZAN ADALI | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/L6eATe3somw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 768
+  },
+  {
+    "id": "OFZetSKw30Q",
+    "title": "Suçlu Türk Filmi |  FULL | TARIK AKAN | BAHAR ERDENİZ | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/OFZetSKw30Q/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 769
+  },
+  {
+    "id": "rcAi9hq55Ns",
+    "title": "Sana Tapıyorum Türk Filmi | FULL | FİKRET HAKAN | SEMA ÖZCAN | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/rcAi9hq55Ns/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 770
+  },
+  {
+    "id": "w9rAJQjW_hE",
+    "title": "Solan Bir Yaprak Gibi Türk Filmi | FULL | TARIK AKAN | FATMA GİRİK | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/w9rAJQjW_hE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 771
+  },
+  {
+    "id": "Rem5mD4uAKI",
+    "title": "Kaynanalar Türk Filmi | 4K ULTRA  HD | TEKİN AKMANSOY | LEMAN ÇIDAMLI",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/Rem5mD4uAKI/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 772
+  },
+  {
+    "id": "FldIz-CFoYg",
+    "title": "Yeryüzünde Bir  Melek Türk Filmi | 4K ULTA HD | TARIK AKAN | HÜLYA KOÇYİĞİT",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/FldIz-CFoYg/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 773
+  },
+  {
+    "id": "wEfCd5vvIaw",
+    "title": "Yavru İle Katip Türk Filmi | 4K ULTRA HD | MÜJDAT GEZEN | İSMAİL HAKKI ŞEN",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/wEfCd5vvIaw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 774
+  },
+  {
+    "id": "8AEENkdckzM",
+    "title": "Bütün Anneler Melektir | Türk Filmi | 4K ULTRA HD|  EDİZ HUN | HÜLYA KOÇYİĞİT",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/8AEENkdckzM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 775
+  },
+  {
+    "id": "RQPgdXvg2ow",
+    "title": "Talihsizler Türk Filmi | 4K ULTRA HD | FULL | AYTAÇ ARMAN | FATMA BELGEN | YILDIRIM ÖNAL",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/RQPgdXvg2ow/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 776
+  },
+  {
+    "id": "mJozTwW_nAI",
+    "title": "Severek Ayrılalım Türk Filmi | 4K ULTRA HD | CÜNEYT ARKIN | HÜLYA KOÇYİĞİT",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/mJozTwW_nAI/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 777
+  },
+  {
+    "id": "q7bOSPfLqKI",
+    "title": "Düğün Türk Filmi | 4K ULTRA HD | HÜLYA KOÇYİĞİT | AHMET MEKİN | KAMURAN USLUER",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/q7bOSPfLqKI/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 778
+  },
+  {
+    "id": "qR8gBgHGqc0",
+    "title": "Yaşar Ne Yaşar Ne Yaşamaz Türk Filmi | 4K ULTRA HD | HALİT AKÇATEPE",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/qR8gBgHGqc0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 779
+  },
+  {
+    "id": "kGBVIemymbU",
+    "title": "Kezban Türk Filmi | 4K ULTRA HD | İZZET GÜNAY | HÜLYA KOÇYİĞİT",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/kGBVIemymbU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 780
+  },
+  {
+    "id": "zyt3cfpbFwM",
+    "title": "Cici Katibem Türk Filmi |  FULL | FATMA GİRİK | ORHAN GÜNŞIRAY | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/zyt3cfpbFwM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 781
+  },
+  {
+    "id": "N1_Nmkfli9M",
+    "title": "Avare Kız Türk Filmi | FULL | FATMA GİRİK | AJDA PEKKAN | EKREM BORA | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/N1_Nmkfli9M/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 782
+  },
+  {
+    "id": "20etViPdvOo",
+    "title": "Dikenli Gül Türk Filmi | FULL | TÜRKAN ŞORAY | ORHAN GÜNŞIRAY | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/20etViPdvOo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 783
+  },
+  {
+    "id": "Ed6uDKEkH7o",
+    "title": "Ana Kalbi Türk Filmi | FULL | TANJU GÜRSU | SEVİM TUNA | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/Ed6uDKEkH7o/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 784
+  },
+  {
+    "id": "_LuhFdd8ZGw",
+    "title": "Fatma Bacı Türk Filmi | FULL | YILDIZ KENTER | FATMA BELGEN | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/_LuhFdd8ZGw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 785
+  },
+  {
+    "id": "spHx71p24iU",
+    "title": "Cici Kızlar Türk Filmi | FULL | Ajda Pekkan | İzzet Günay | Restorasyonlu",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/spHx71p24iU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 786
+  },
+  {
+    "id": "DCzbnzfUiec",
+    "title": "Kederli Günlerim Türk Filmi | FULL | İZZET GÜNAY | BEHİYE AKSOY | Restorasyonlu",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/DCzbnzfUiec/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 787
+  },
+  {
+    "id": "BhSKRZlIuZE",
+    "title": "Pantolon Bankası Türk Filmi | FULL | Sadri Alışık | Ajda Pekkan | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/BhSKRZlIuZE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 788
+  },
+  {
+    "id": "g6VSx_7R__k",
+    "title": "Kumarbazın İntikamı Türk Filmi | FULL | AYHAN IŞIK | HÜLYA KOÇYİĞİT | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/g6VSx_7R__k/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 789
+  },
+  {
+    "id": "Bz_wZi-Zoto",
+    "title": "Ayrılık Şarkısı Türk Filmi |   FULL | CÜNEYT ARKIN | AJDA PEKKAN| RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/Bz_wZi-Zoto/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 790
+  },
+  {
+    "id": "Fj4lsohtn8o",
+    "title": "Çalınan Aşk Türk Filmi | FULL | TÜRKAN ŞORAY | TAMER YİĞİT | SADRİ ALIŞIK | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/Fj4lsohtn8o/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 791
+  },
+  {
+    "id": "gZq-aqYjhLk",
+    "title": "Biz de Arkadaş mıyız? Türk Filmi | FULL | TÜRKAN ŞORAY | GÖKSEL ARSOY | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/gZq-aqYjhLk/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 792
+  },
+  {
+    "id": "JIUh-oNE2uE",
+    "title": "Ekmek Parası Türk Filmi | FULL | SUPHİ KANER | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/JIUh-oNE2uE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 793
+  },
+  {
+    "id": "xGAfgpu7QoM",
+    "title": "Taşralı Amca Türk Filmi | FULL | SEVDA FERDAĞ | YUSUF SEZGİN | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/xGAfgpu7QoM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 794
+  },
+  {
+    "id": "dEDXOndXKcM",
+    "title": "Yuvana Dön Baba Türk Filmi | FULL | FİLİZ AKIN | EDİZ HUN | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/dEDXOndXKcM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 795
+  },
+  {
+    "id": "jeCy2XrXQKo",
+    "title": "Galatalı Mustafa Türk Filmi | FULL | AYHAN IŞIK | SEVDA FERDAĞ | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/jeCy2XrXQKo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 796
+  },
+  {
+    "id": "e5k2Tune5Ik",
+    "title": "Siyah Gül Türk Filmi | FULL | TÜRKAN ŞORAY | KARTAL TİBET | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/e5k2Tune5Ik/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 797
+  },
+  {
+    "id": "9wJT226MQs8",
+    "title": "Lekeli Kadın Türk Filmi | FULL | TÜRKAN ŞORAY | TANJU GÜRSU | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/9wJT226MQs8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 798
+  },
+  {
+    "id": "xUSYm3fX06w",
+    "title": "Muhteşem Serseri Türk Filmi | FULL | FATMA GİRİK | AYHAN IŞIK | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/xUSYm3fX06w/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 799
+  },
+  {
+    "id": "0lZK8R6s23M",
+    "title": "Tığ Gibi Delikanlı Türk Filmi | FULL | FİLİZ AKIN | İZZET GÜNAY | TANJU GÜRSU | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/0lZK8R6s23M/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 800
+  },
+  {
+    "id": "vfxg8mvPT5M",
+    "title": "Satın Alınan Adam Türk Filmi | FULL | GÖKSEL ARSOY | BELGİN DORUK | Restorasyonlu",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/vfxg8mvPT5M/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 801
+  },
+  {
+    "id": "mGhmWbOg_RY",
+    "title": "Şehvetin Esiriyiz Türk Filmi | FULL | AJDA PEKKAN | KUZEY VARGIN | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/mGhmWbOg_RY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 802
+  },
+  {
+    "id": "CkvHYMNyNP0",
+    "title": "Kanun Namına Türk Filmi | FULL | KARTAL TİBET | FİGEN SAY | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/CkvHYMNyNP0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 803
+  },
+  {
+    "id": "7IthfazeDpM",
+    "title": "Sokakların Kanunu Türk Filmi | FULL | SADRİ ALIŞIK | AJDA PEKKAN | Restorasyonlu",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/7IthfazeDpM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 804
+  },
+  {
+    "id": "xBFy82Lf1g0",
+    "title": "Serseri Aşık Türk Filmi | FULL | SADRİ ALIŞIK | CÜNEYT ARKIN | HÜLYA KOÇYİĞİT | Restorasyonlu",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/xBFy82Lf1g0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 805
+  },
+  {
+    "id": "PTY9RxiEfLk",
+    "title": "Unutamadığım Kadın Türk Filmi | FULL | Göksel Arsoy | Muhterem Nur | Restorasyonlu",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/PTY9RxiEfLk/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 806
+  },
+  {
+    "id": "HF-30CJKT60",
+    "title": "Mahallenin Bülbülü Türk Filmi | ULTRA HD | FİLİZ AKIN | TANJU GÜRSU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/HF-30CJKT60/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 807
+  },
+  {
+    "id": "spQP8wnaoZ4",
+    "title": "Karanlıklar Meleği Türk Filmi | FULL | CÜNEYT ARKIN | HÜLYA KOÇYİĞİT | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/spQP8wnaoZ4/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 808
+  },
+  {
+    "id": "iM-FnDP9MKM",
+    "title": "Reisin Kızı Türk Filmi | Restorasyonlu | FULL | GÜLŞEN BUBİKOĞLU | YALÇIN GÜLHAN",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/iM-FnDP9MKM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 809
+  },
+  {
+    "id": "oMWVEVZS45w",
+    "title": "Ölümsüz Kadın Türk Filmi | FULL | EKREM BORA | TÜRKAN ŞORAY | RESTORASYONLU",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/oMWVEVZS45w/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 810
+  },
+  {
+    "id": "Vt3dWmptcEg",
+    "title": "Kin Türk Filmi  FUL | 4K ULTRA HDL | CÜNEYT ARKIN",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/Vt3dWmptcEg/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 811
+  },
+  {
+    "id": "A73a9h_OP90",
+    "title": "Acı Dünya Türk Filmi | FULL | 4K UKTRA HD | TARIK AKAN | HARİKA AVCI",
+    "category": "film",
+    "channel": "Türk Filmleri TV",
+    "thumb": "https://i.ytimg.com/vi/A73a9h_OP90/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 812
   }
 ]
