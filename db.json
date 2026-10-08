@@ -56,14 +56,6 @@
     "slot": 10
   },
   {
-    "id": "x4KvqBuvA-c",
-    "title": "Kanal 7 Canlı Yayın #canlı #live",
-    "category": "canli",
-    "channel": "Kanal 7 Canlı Yayın",
-    "thumb": "https://i.ytimg.com/vi/x4KvqBuvA-c/hqdefault_live.jpg",
-    "slot": 12
-  },
-  {
     "id": "U3PGGfxCioI",
     "title": "🔴 Akit TV Canlı Yayını #canlıyayın",
     "category": "canli",
@@ -78,6 +70,22 @@
     "channel": "BloombergHT",
     "thumb": "https://i.ytimg.com/vi/j7B_zsL11Pw/hqdefault_live.jpg",
     "slot": 23
+  },
+  {
+    "id": "up5Jixr-OhI",
+    "title": "Kanal 7 Canlı Yayın #canlı #live",
+    "category": "canli",
+    "channel": "Kanal 7 Canlı Yayın",
+    "thumb": "https://i.ytimg.com/vi/up5Jixr-OhI/hqdefault_live.jpg",
+    "slot": 24
+  },
+  {
+    "id": "NqbUZyS58u8",
+    "title": "Yeşilçam Canlı Yayını - 7/24 | Arzu Film",
+    "category": "canli",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/NqbUZyS58u8/hqdefault_live.jpg",
+    "slot": 25
   },
   {
     "id": "JpP13Wp1ke0",
