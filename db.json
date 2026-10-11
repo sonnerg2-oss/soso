@@ -144,6 +144,14 @@
     "slot": 39
   },
   {
+    "id": "eOqxUpRToOM",
+    "title": "Yeşilçam Canlı Yayını - 7/24 | Arzu Film",
+    "category": "canli",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/eOqxUpRToOM/hqdefault_live.jpg",
+    "slot": 40
+  },
+  {
     "id": "JpP13Wp1ke0",
     "title": "Aşk-ı Memnu Canlı İzle",
     "category": "dizi",
@@ -2146,11 +2154,903 @@
     "slot": 812
   },
   {
-    "id": "eOqxUpRToOM",
-    "title": "Yeşilçam Canlı Yayını - 7/24 | Arzu Film",
+    "id": "Z9nNQE3TMZo",
+    "title": "Dün Bugün 4.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/Z9nNQE3TMZo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 813
+  },
+  {
+    "id": "kVQliuQ7BCc",
+    "title": "Dün Bugün 3.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/kVQliuQ7BCc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 814
+  },
+  {
+    "id": "mK9L7RHplDM",
+    "title": "Dün Bugün 2.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/mK9L7RHplDM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 815
+  },
+  {
+    "id": "xNg1pi5mLhU",
+    "title": "Dün Bugün 1.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/xNg1pi5mLhU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 816
+  },
+  {
+    "id": "iz-DIQXCMyQ",
+    "title": "Deliler 3.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/iz-DIQXCMyQ/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 817
+  },
+  {
+    "id": "FJujKU_-geM",
+    "title": "Deliler 2.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/FJujKU_-geM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 818
+  },
+  {
+    "id": "z5_7X9M_JfA",
+    "title": "Deliler 1.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/z5_7X9M_JfA/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 819
+  },
+  {
+    "id": "TX4_O2mR4-k",
+    "title": "Reklamlar 4.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/TX4_O2mR4-k/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 820
+  },
+  {
+    "id": "4Bkf-FUA8z0",
+    "title": "Reklamlar 3.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/4Bkf-FUA8z0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 821
+  },
+  {
+    "id": "dLnL-Mp6uCQ",
+    "title": "Aşk Olsun 4.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/dLnL-Mp6uCQ/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 822
+  },
+  {
+    "id": "KIW8uO2AE4M",
+    "title": "Aşk Olsun 3.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/KIW8uO2AE4M/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 823
+  },
+  {
+    "id": "3NnL0OCiodE",
+    "title": "Yasaklar 4.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/3NnL0OCiodE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 824
+  },
+  {
+    "id": "FYgTFtHq0kY",
+    "title": "Yasaklar 3.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/FYgTFtHq0kY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 825
+  },
+  {
+    "id": "E2IWeS9Fvgo",
+    "title": "Beyoğlu Beyoğlu 4. Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/E2IWeS9Fvgo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 826
+  },
+  {
+    "id": "wAY9pOCrwBA",
+    "title": "Beyoğlu Beyoğlu 3. Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/wAY9pOCrwBA/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 827
+  },
+  {
+    "id": "71HJt5Y_dwc",
+    "title": "Reklamlar 2.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/71HJt5Y_dwc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 828
+  },
+  {
+    "id": "OsZz0hW9KNY",
+    "title": "Reklamlar 1.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/OsZz0hW9KNY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 829
+  },
+  {
+    "id": "yI0v-eVAZzg",
+    "title": "Aşk Olsun 2.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/yI0v-eVAZzg/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 830
+  },
+  {
+    "id": "9i7xC59kNhY",
+    "title": "Aşk Olsun 1.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/9i7xC59kNhY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 831
+  },
+  {
+    "id": "HioiqfY7pug",
+    "title": "Yasaklar 2.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/HioiqfY7pug/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 832
+  },
+  {
+    "id": "Kaw37sEW2Wc",
+    "title": "Yasaklar 1.Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/Kaw37sEW2Wc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 833
+  },
+  {
+    "id": "w_MENOi7jqk",
+    "title": "Beyoğlu Beyoğlu 2. Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/w_MENOi7jqk/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 834
+  },
+  {
+    "id": "VLY35QgSRAQ",
+    "title": "Beyoğlu Beyoğlu 1. Bölüm | Devekuşu Kabare",
+    "category": "film",
+    "channel": "Eski Türk Filmleri",
+    "thumb": "https://i.ytimg.com/vi/VLY35QgSRAQ/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 835
+  },
+  {
+    "id": "1TwFXbh5AME",
+    "title": "Yavrum (1970) Zeynep Değirmencioğlu - Tek Parça",
+    "category": "film",
+    "channel": "Yakup Öktem",
+    "thumb": "https://i.ytimg.com/vi/1TwFXbh5AME/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 836
+  },
+  {
+    "id": "tvuUkLFH7eo",
+    "title": "Kemal Sunal-İnek Şaban (1978) Yüksek Kalite",
+    "category": "film",
+    "channel": "Holy Poring Channel",
+    "thumb": "https://i.ytimg.com/vi/tvuUkLFH7eo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 837
+  },
+  {
+    "id": "WjrCdZ_9LUU",
+    "title": "filiz akin karateci kiz",
+    "category": "film",
+    "channel": "ismixan esrefov",
+    "thumb": "https://i.ytimg.com/vi/WjrCdZ_9LUU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 838
+  },
+  {
+    "id": "4rAnNKCxlnc",
+    "title": "Hababam Sınıfı Uyanıyor | FULL HD",
     "category": "film",
     "channel": "ARZU FİLM",
-    "thumb": "https://i.ytimg.com/vi/eOqxUpRToOM/hqdefault_live.jpg",
-    "slot": 813
+    "thumb": "https://i.ytimg.com/vi/4rAnNKCxlnc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 839
+  },
+  {
+    "id": "9O18JWO3oko",
+    "title": "Bizim Aile | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/9O18JWO3oko/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 840
+  },
+  {
+    "id": "Fl6zBwNWpsc",
+    "title": "Hababam Sınıfı Güle Güle | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/Fl6zBwNWpsc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 841
+  },
+  {
+    "id": "MrpC926sAG0",
+    "title": "Ah Nerede 1975 Tarık Akan & Gülşen Bubikoğlu   Tek Parça Film Videosu İzle",
+    "category": "film",
+    "channel": "Hanifi Güneş",
+    "thumb": "https://i.ytimg.com/vi/MrpC926sAG0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 842
+  },
+  {
+    "id": "QzUIVhJu0jQ",
+    "title": "Hababam Sınıfı Dokuz Doğuruyor | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/QzUIVhJu0jQ/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 843
+  },
+  {
+    "id": "guqpuNWQDhc",
+    "title": "Tosun Paşa | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/guqpuNWQDhc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 844
+  },
+  {
+    "id": "3Gp3az9S-q8",
+    "title": "Savulun Battal Gazi Geliyor - Cuneyt Arkin Tek Parca / 480p",
+    "category": "film",
+    "channel": "Tek Buyuk Besiktas",
+    "thumb": "https://i.ytimg.com/vi/3Gp3az9S-q8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 845
+  },
+  {
+    "id": "NWrvUXpIZGI",
+    "title": "Malkoçoğlu ve Cem Sultan | Tek Parça Full HD - Cüneyt Arkın, Gülnaz Huri, Cihangir Gaffari",
+    "category": "film",
+    "channel": "MURAT FİLM",
+    "thumb": "https://i.ytimg.com/vi/NWrvUXpIZGI/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 846
+  },
+  {
+    "id": "awO8NNJhrYU",
+    "title": "Bitirimler Sınıfı (1975)",
+    "category": "film",
+    "channel": "SEDA YILMAZER",
+    "thumb": "https://i.ytimg.com/vi/awO8NNJhrYU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 847
+  },
+  {
+    "id": "FQ_7cabWOv0",
+    "title": "Neşeli Günler | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/FQ_7cabWOv0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 848
+  },
+  {
+    "id": "DCZke4LKtvE",
+    "title": "Külkedisi Sinderella | Tek Parça Full HD - Zeynep Değirmencioğlu, Suna Selen, Seden Kızıltunç",
+    "category": "film",
+    "channel": "MURAT FİLM",
+    "thumb": "https://i.ytimg.com/vi/DCZke4LKtvE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 849
+  },
+  {
+    "id": "QXtE20uVvgk",
+    "title": "Senede Bir Gün | Kartal Tibet, Hülya Koçyiğit | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/QXtE20uVvgk/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 850
+  },
+  {
+    "id": "SjjbSC7PpDU",
+    "title": "Son Hıçkırık | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/SjjbSC7PpDU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 851
+  },
+  {
+    "id": "LaDcjPiJ-O4",
+    "title": "Tatlı Meleğim Türk Filmi | FULL |TÜRKAN ŞORAY | EDİZ HUN",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/LaDcjPiJ-O4/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 852
+  },
+  {
+    "id": "gkvdYmkczPY",
+    "title": "Gülen Gözler | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/gkvdYmkczPY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 853
+  },
+  {
+    "id": "L_Jq-zdvdv0",
+    "title": "Yavrum 1970 Zeynep Değirmencioğlu   Tek Parça",
+    "category": "film",
+    "channel": "amelia usly movie",
+    "thumb": "https://i.ytimg.com/vi/L_Jq-zdvdv0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 854
+  },
+  {
+    "id": "UcQzvS4WRbM",
+    "title": "Hayat Sevince Güzel - Zeynep Değirmencioğlu (Film Full)",
+    "category": "film",
+    "channel": "Film Arşivi",
+    "thumb": "https://i.ytimg.com/vi/UcQzvS4WRbM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 855
+  },
+  {
+    "id": "ayvfyltUQaY",
+    "title": "Kadin Degil Bas Belasi - Turkan Soray",
+    "category": "film",
+    "channel": "DiziFilm Keyfi",
+    "thumb": "https://i.ytimg.com/vi/ayvfyltUQaY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 856
+  },
+  {
+    "id": "cIncvDfSj_8",
+    "title": "Sana Dönmeyeceğim Türk Filmi | FULL | Türkan Şoray | Murat Soydan",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/cIncvDfSj_8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 857
+  },
+  {
+    "id": "GVHNNDUNtZE",
+    "title": "Sultan | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/GVHNNDUNtZE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 858
+  },
+  {
+    "id": "DlyC48_BirQ",
+    "title": "Aile Şerefi | Restorasyonlu (Münir Özkul - Adile Naşit)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/DlyC48_BirQ/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 859
+  },
+  {
+    "id": "8oKtwB6QX2E",
+    "title": "Melek Mi Şeytan Mı? ( 1971) - Türkan Şoray & Tarık Akan",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/8oKtwB6QX2E/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 860
+  },
+  {
+    "id": "f47EXkIkOBQ",
+    "title": "Sevgili Babam (1969) - Zeynep Değirmencioğlu & Cüneyt Arkın",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/f47EXkIkOBQ/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 861
+  },
+  {
+    "id": "5Q_wKlkCJsU",
+    "title": "Tatli Dillim | Yerli Film Tek Parça (FULL HD)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/5Q_wKlkCJsU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 862
+  },
+  {
+    "id": "FG4_Tpz1Ooc",
+    "title": "Buğulu Gözler (1970) - Tek Parça (Türkan Şoray & Murat Soydan)",
+    "category": "film",
+    "channel": "Sistem Film",
+    "thumb": "https://i.ytimg.com/vi/FG4_Tpz1Ooc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 863
+  },
+  {
+    "id": "Vfs1uAbef_A",
+    "title": "Canım Kardeşim (1973) | Restorasyonlu (Full HD)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/Vfs1uAbef_A/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 864
+  },
+  {
+    "id": "HBRD_HbCwHE",
+    "title": "Oh Olsun | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/HBRD_HbCwHE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 865
+  },
+  {
+    "id": "aD5_UyPU7ik",
+    "title": "Bir Dağ Masalı - 1967 FULL HD Tek Parça (Türkan Şoray & Murat Soydan)",
+    "category": "film",
+    "channel": "Sistem Film",
+    "thumb": "https://i.ytimg.com/vi/aD5_UyPU7ik/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 866
+  },
+  {
+    "id": "5gYFuZqzvHY",
+    "title": "Öyle Olsun | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/5gYFuZqzvHY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 867
+  },
+  {
+    "id": "GUhtP5Suaa4",
+    "title": "Yalancı Türk Filmi | FULL | TÜRKAN ŞORAY | AYTAÇ ARMAN",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/GUhtP5Suaa4/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 868
+  },
+  {
+    "id": "LdJIDZxZ1Xg",
+    "title": "Kezban Paris'te (1971) - Hülya Koçyiğit & İzzet Günay",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/LdJIDZxZ1Xg/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 869
+  },
+  {
+    "id": "ModE0YI2IpI",
+    "title": "Bütün Anneler Melektir (1971) - Hülya Koçyiğit & Ediz Hun",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/ModE0YI2IpI/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 870
+  },
+  {
+    "id": "ZDoLID8feBU",
+    "title": "Şaban Oğlu Şaban | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/ZDoLID8feBU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 871
+  },
+  {
+    "id": "KRy20M7uQM4",
+    "title": "Süt Kardeşler | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/KRy20M7uQM4/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 872
+  },
+  {
+    "id": "Z36c3fDqvJY",
+    "title": "Şekerpare | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/Z36c3fDqvJY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 873
+  },
+  {
+    "id": "FHwCDhLbfS0",
+    "title": "Emine | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/FHwCDhLbfS0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 874
+  },
+  {
+    "id": "lSu7Wc5lgXc",
+    "title": "Salako | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/lSu7Wc5lgXc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 875
+  },
+  {
+    "id": "yM2r8H8A_P0",
+    "title": "Köyden İndim Şehire | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/yM2r8H8A_P0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 876
+  },
+  {
+    "id": "4Wf_eHgl3j0",
+    "title": "Yuvasız Kuşlar Türk Filmi | FULL | EDİZ HUN | FİLİZ AKIN",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/4Wf_eHgl3j0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 877
+  },
+  {
+    "id": "Ws0lFEJw9PA",
+    "title": "Sevgili Halam - 1975 Tek Parça (Hulusi Kentmen & Adile Naşit & Meral Zeren)",
+    "category": "film",
+    "channel": "Sistem Film",
+    "thumb": "https://i.ytimg.com/vi/Ws0lFEJw9PA/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 878
+  },
+  {
+    "id": "3Y8nUzSbTrE",
+    "title": "Hababam Sınıfı Tatilde | Full HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/3Y8nUzSbTrE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 879
+  },
+  {
+    "id": "wgG6xlQ1jx8",
+    "title": "Salak Milyoner | Full HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/wgG6xlQ1jx8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 880
+  },
+  {
+    "id": "OWi3FkpG-JU",
+    "title": "Severek Ayrılalım (1971) - Cüneyt Arkın & Hülya Koçyiğit",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/OWi3FkpG-JU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 881
+  },
+  {
+    "id": "Zmrmkm5ieBY",
+    "title": "Cici Katibem (1960) - Tek Parça (Fatma Girik & Orhan Günşıray)",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/Zmrmkm5ieBY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 882
+  },
+  {
+    "id": "3lNt8Epmsac",
+    "title": "Şoför Nebahat | Tek Parça Full HD - Münir Özkul, Ali Şen, Fatma Girik",
+    "category": "film",
+    "channel": "MURAT FİLM",
+    "thumb": "https://i.ytimg.com/vi/3lNt8Epmsac/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 883
+  },
+  {
+    "id": "Ae0sqzsxeYw",
+    "title": "Kalbimin Efendisi | Restorasyonlu (Hülya Koçyiğit - Ediz Hun)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/Ae0sqzsxeYw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 884
+  },
+  {
+    "id": "wOgpIIxRqsA",
+    "title": "Tarkan Viking Kanı | Restorasyonlu (Kartal Tibet)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/wOgpIIxRqsA/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 885
+  },
+  {
+    "id": "2CqRfGcNze0",
+    "title": "Kaderimin Oyunu (1972) - Hülya Koçyiğit & Tarık Akan",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/2CqRfGcNze0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 886
+  },
+  {
+    "id": "MC2RJRawUHY",
+    "title": "Tarkan | Restorasyonlu (Kartal Tibet)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/MC2RJRawUHY/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 887
+  },
+  {
+    "id": "puV5XXMzfu8",
+    "title": "Tarkan Güçlü Kahraman | Restorasyonlu (Kartal Tibet)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/puV5XXMzfu8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 888
+  },
+  {
+    "id": "WEsmhnOsBiw",
+    "title": "Karaoğlan Geliyor Cengizhan'ın Hazineleri | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/WEsmhnOsBiw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 889
+  },
+  {
+    "id": "y8G2mzjwXCQ",
+    "title": "Vurun Kahpeye (1973) - Hale Soygazi & Tugay Toksöz & Tanju Gürsu",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/y8G2mzjwXCQ/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 890
+  },
+  {
+    "id": "xs9XUjHvZsM",
+    "title": "Çöpçüler Kralı | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/xs9XUjHvZsM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 891
+  },
+  {
+    "id": "_T2pfIFVyVo",
+    "title": "Petrol Kralları (1979) - Zeki Alasya & Metin Akpınar",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/_T2pfIFVyVo/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 892
+  },
+  {
+    "id": "VaybVTUzHF8",
+    "title": "Hıçkırık (1965) - Hülya Koçyiğit & Ediz Hun & Kartal Tibet",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/VaybVTUzHF8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 893
+  },
+  {
+    "id": "iFwcGvskkW0",
+    "title": "Samanyolu (1967) - Hülya Koçyiğit & Ediz Hun",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/iFwcGvskkW0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 894
+  },
+  {
+    "id": "lZXfiu3GL9Y",
+    "title": "Mirasyediler Türk Filmi | FULL | HALE SOYGAZİ | METİN AKPINAR | ZEKİ ALASYA",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/lZXfiu3GL9Y/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 895
+  },
+  {
+    "id": "RehneMlFUx8",
+    "title": "Nereden Çıktı Bu Velet (1975) - Zeki Alasya & Metin Akpınar",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/RehneMlFUx8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 896
+  },
+  {
+    "id": "TWsD53_iyc4",
+    "title": "Nereye Bakıyor Bu Adamlar (1976) - Zeki Alasya & Metin Akpınar",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/TWsD53_iyc4/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 897
+  },
+  {
+    "id": "Juh-LZjWjsE",
+    "title": "Beş Milyoncuk Borç Verir Misin (1975) - Zeki Alasya & Metin Akpınar",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/Juh-LZjWjsE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 898
+  },
+  {
+    "id": "UrcUmuL61l8",
+    "title": "Hayat Bayram Olsa (1973) - Kadir İnanır & Hülya Koçyiğit",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/UrcUmuL61l8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 899
+  },
+  {
+    "id": "23T18NEggpU",
+    "title": "Aslan Bacanak (1977) - Zeki Alasya & Metin Akpınar",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/23T18NEggpU/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 900
+  },
+  {
+    "id": "EXmzKB-Lduc",
+    "title": "Banker Bilo | Restorasyonlu (Şener Şen - İlyas Salman)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/EXmzKB-Lduc/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 901
+  },
+  {
+    "id": "zQU5jCEdEqM",
+    "title": "Yaralı Kalp | Tek Parça Full HD - Filiz Akın, Ediz Hun, Metin Serezli, Kadir İnanır",
+    "category": "film",
+    "channel": "MURAT FİLM",
+    "thumb": "https://i.ytimg.com/vi/zQU5jCEdEqM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 902
+  },
+  {
+    "id": "ZMVFyj4OkDE",
+    "title": "Kezban Roma'da (1970) - Hülya Koçyiğit & Ediz Hun",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/ZMVFyj4OkDE/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 903
+  },
+  {
+    "id": "wAbjtqKnigA",
+    "title": "Nefret | Tek Parça Full HD - Yalçın Gülhan, Perihan Savaş, Gani Dede",
+    "category": "film",
+    "channel": "MURAT FİLM",
+    "thumb": "https://i.ytimg.com/vi/wAbjtqKnigA/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 904
+  },
+  {
+    "id": "VgSulVQV1T0",
+    "title": "Anneler ve Kızları (1971) - Yıldız Kenter & İzzet Günay",
+    "category": "film",
+    "channel": "Erman Film",
+    "thumb": "https://i.ytimg.com/vi/VgSulVQV1T0/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 905
+  },
+  {
+    "id": "s5U9i5X3Uyw",
+    "title": "Ekmekçi Kadın (1972) -  Tek Parça (Fatma Girik & Yalçın Gülhan)",
+    "category": "film",
+    "channel": "Melek Film",
+    "thumb": "https://i.ytimg.com/vi/s5U9i5X3Uyw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 906
+  },
+  {
+    "id": "oElcjEo4YWw",
+    "title": "Ada | Tek Parça Full HD - Türkan Şoray, Rutkay Aziz",
+    "category": "film",
+    "channel": "MURAT FİLM",
+    "thumb": "https://i.ytimg.com/vi/oElcjEo4YWw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 907
+  },
+  {
+    "id": "l5qgnAgpDLw",
+    "title": "Milyarder | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/l5qgnAgpDLw/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 908
+  },
+  {
+    "id": "hf2-8MRPGu8",
+    "title": "Hababam Sınıfı | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/hf2-8MRPGu8/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 909
+  },
+  {
+    "id": "AAldCMXkTJM",
+    "title": "Yalancı Yarim | Yerli Film Tek Parça (FULL HD)",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/AAldCMXkTJM/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 910
+  },
+  {
+    "id": "nz9Z7Et_bbk",
+    "title": "Ne Olacak Şimdi? | FULL HD",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/nz9Z7Et_bbk/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 911
+  },
+  {
+    "id": "bcge5mSX090",
+    "title": "Davaro - Tek Parça - Kemal Sunal & Şener Şen",
+    "category": "film",
+    "channel": "Sistem Film",
+    "thumb": "https://i.ytimg.com/vi/bcge5mSX090/hqdefault.jpg",
+    "genre": "Komedi",
+    "slot": 912
   }
 ]
