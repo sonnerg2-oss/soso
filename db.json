@@ -80,12 +80,68 @@
     "slot": 24
   },
   {
-    "id": "NqbUZyS58u8",
-    "title": "Yeşilçam Canlı Yayını - 7/24 | Arzu Film",
+    "id": "OKFwZHJdUw8",
+    "title": "İmamoğlu Davasında Kritik İtiraf: \"O Villalar İSKİ Parasıyla Alındı\" I CANLI HABER",
     "category": "canli",
-    "channel": "ARZU FİLM",
-    "thumb": "https://i.ytimg.com/vi/NqbUZyS58u8/hqdefault_live.jpg",
+    "channel": "CNN TÜRK",
+    "thumb": "https://i.ytimg.com/vi/OKFwZHJdUw8/hqdefault_live.jpg",
     "slot": 25
+  },
+  {
+    "id": "dP-vvFLYU6k",
+    "title": "Baku TV - Canlı yayım 11.10.2026",
+    "category": "canli",
+    "channel": "Baku TV",
+    "thumb": "https://i.ytimg.com/vi/dP-vvFLYU6k/hqdefault_live.jpg",
+    "slot": 27
+  },
+  {
+    "id": "r1nNA4oXvvM",
+    "title": "🔴 Akit TV Canlı Yayını #canlıyayın",
+    "category": "canli",
+    "channel": "Akit TV",
+    "thumb": "https://i.ytimg.com/vi/r1nNA4oXvvM/hqdefault_live.jpg",
+    "slot": 33
+  },
+  {
+    "id": "nol9os2B8zE",
+    "title": "A Spor Canlı Yayın 🔴",
+    "category": "canli",
+    "channel": "A Spor",
+    "thumb": "https://i.ytimg.com/vi/nol9os2B8zE/hqdefault_live.jpg",
+    "slot": 35
+  },
+  {
+    "id": "DLKUqTqUBKo",
+    "title": "📍📡 ÜLKE TV CANLI YAYINI ᴴᴰ - #tv  izle",
+    "category": "canli",
+    "channel": "ÜLKE TV",
+    "thumb": "https://i.ytimg.com/vi/DLKUqTqUBKo/hqdefault_live.jpg",
+    "slot": 36
+  },
+  {
+    "id": "WX29nlgdqho",
+    "title": "TGRT Haber Canlı Yayın ᴴᴰ - Son Dakika Canlı Haber İzle",
+    "category": "canli",
+    "channel": "TGRT Haber TV",
+    "thumb": "https://i.ytimg.com/vi/WX29nlgdqho/hqdefault.jpg",
+    "slot": 37
+  },
+  {
+    "id": "EqoCJ8BPxtE",
+    "title": "SON DAKİKA HABERLERİ - Haber Global TV ᴴᴰ Canlı TV İzle",
+    "category": "canli",
+    "channel": "Haber Global",
+    "thumb": "https://i.ytimg.com/vi/EqoCJ8BPxtE/hqdefault.jpg",
+    "slot": 38
+  },
+  {
+    "id": "4WSvLRk83-c",
+    "title": "tv100 - #Canlı Yayın ᴴᴰ",
+    "category": "canli",
+    "channel": "TV100",
+    "thumb": "https://i.ytimg.com/vi/4WSvLRk83-c/hqdefault.jpg",
+    "slot": 39
   },
   {
     "id": "JpP13Wp1ke0",
@@ -368,19 +424,19 @@
     "slot": 234
   },
   {
-    "id": "JeIsM7AN7ss",
-    "title": "Çok Güzel Hareketler 2 - Canlı Yayın 📺😎",
+    "id": "RKo3stUideQ",
+    "title": "En Sevilen Skeçler İle Gülmeye Buradan Devam! Güldür Güldür Show - Canlı Yayın 😂😂😂",
     "category": "dizi",
-    "channel": "Çok Güzel Hareketler",
-    "thumb": "https://i.ytimg.com/vi/JeIsM7AN7ss/hqdefault_live.jpg",
+    "channel": "Güldür Güldür",
+    "thumb": "https://i.ytimg.com/vi/RKo3stUideQ/hqdefault_live.jpg",
     "slot": 235
   },
   {
-    "id": "5Whk9MVTpI4",
-    "title": "🔴 CANLI 🔴 KRAL ŞAKİR | KESİNTİSİZ EĞLENCE  | @cartoonnetworkturkiye",
+    "id": "AYmQwwofoA8",
+    "title": "Çok Güzel Hareketler 2 - Canlı Yayın 📺😎",
     "category": "dizi",
-    "channel": "Cartoon Network Türkiye",
-    "thumb": "https://i.ytimg.com/vi/5Whk9MVTpI4/hqdefault_live.jpg",
+    "channel": "Çok Güzel Hareketler",
+    "thumb": "https://i.ytimg.com/vi/AYmQwwofoA8/hqdefault_live.jpg",
     "slot": 236
   },
   {
@@ -2088,5 +2144,13 @@
     "thumb": "https://i.ytimg.com/vi/A73a9h_OP90/hqdefault.jpg",
     "genre": "Komedi",
     "slot": 812
+  },
+  {
+    "id": "eOqxUpRToOM",
+    "title": "Yeşilçam Canlı Yayını - 7/24 | Arzu Film",
+    "category": "film",
+    "channel": "ARZU FİLM",
+    "thumb": "https://i.ytimg.com/vi/eOqxUpRToOM/hqdefault_live.jpg",
+    "slot": 813
   }
 ]
